@@ -5,11 +5,11 @@ Agreement Processes
         Acquisition Plan info 
         获取计划    信息
         Request for Supply (e.g., Request for Proposal, Request for Tender) info 
-        供应请求    信息
+        供应请求（如建议书邀请函，投标邀请函）    信息
         Agreement Change Request info 
         协议变更请求    信息
         Agreement (e.g., Contract) info 
-        协议    信息
+        协议（如合同）    信息
         Agreement Change Management Procedure info 
         协议变更管理程序    信息
         Delivery Acceptance Report info
@@ -17,19 +17,19 @@ Agreement Processes
     Supply Process
     供应过程
         Supply Response (e.g., Proposal, Tender) info 
-        供应响应    信息
+        供应响应（如建议书，投标书）    信息
         Agreement Change Request info 
         协议变更请求    信息
         Agreement Change Management Procedure info
         协议变更管理程序    信息
         Supply Delivery Records (for system, software, product or service) record
-        供应交付记录    记录
+        供应交付记录（如系统，软件，产品或服务）    记录
 Organizational Project-Enabling Processes
 组织项目使能过程
     Life Cycle Model Management Process
     生命周期模型管理过程
         Organizational Procedures (Process Management Procedures) info 
-        组织程序    信息
+        组织程序（流程管理程序）    信息
         Process Assessment Report info 
         过程评估报告    信息
         Process Improvement Plan info 
@@ -59,9 +59,9 @@ Organizational Project-Enabling Processes
         Skill Needs Report info 
         技能需求报告    信息
         Skill Development Assets (Training Materials) artifact 
-        技能开发资产    制品
+        技能开发资产（培训材料）    制品
         Skill Development Records (Skill Inventory, Training Record) record
-        技能开发记录    记录
+        技能开发记录（技能储备，培训记录）   记录
         Qualified Personnel artifact
         资质人员    信息
         Staff Assignment Records record 
@@ -69,13 +69,13 @@ Organizational Project-Enabling Processes
     Quality Management Process
     质量管理过程
         Quality Management Plan (Policies, Objectives) info 
-        质量管理计划    信息
+        质量管理计划（政策，目标）    信息
         Quality Management Procedures info 
         质量管理程序    信息
         Quality Assurance Assessment Results record 
         质量保证评估结果    记录
         Corrective and Preventive Action Report (Problem Management Report) info
-        整改活动报告    信息
+        整改活动报告（问题管理报告）    信息
     Knowledge Management Process
     知识管理过程
         Knowledge Management Plan info 
@@ -91,7 +91,7 @@ Technical Management Processes
     Project Planning Process
     项目计划过程
         Project Plan (e.g., Project Technical Management Plan, Systems or Software Engineering Management Plan, Software Development Plan, Transition Plan) info
-        项目计划    信息
+        项目计划（项目技术管理计划，系统或软件工程管理计划，软件开发计划，迁移计划）    信息
         Work Breakdown Structure artifact
         工作分解结构    制品 
         Resource Request info
@@ -211,13 +211,13 @@ Technical Processes
         Architecture Views and Models (Architecture Description) artifact 
         架构试图和模型（架构描述）  制品
         Interface Definition (initial) artifact
-        接口定义（初始）  制品
+        接口定义（初始版）  制品
     Design Definition Process
     设计定义过程
         Design Artifact artifact 
         设计制品    制品
         Design Artifacts Report (Design description) info 
-        设计制品报告    信息
+        设计制品报告（设计描述）    信息
         Interface Specification info
         接口规范    信息
     System Analysis Process
